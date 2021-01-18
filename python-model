@@ -1,1 +1,5 @@
-
+# Set up code checking
+from learntools.core import binder
+binder.bind(globals())
+from learntools.deep_learning.exercise_1 import *
+print("Setup Complete")

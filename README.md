@@ -6,7 +6,8 @@ My name is Marzena and you are likely to be assessing my entry challenge for COD
 Below listed are the components to my project:
 
 ### WEBSITE
-Please take a look at the website I built. I used Wix, as this seemed like the most beginner-friendly interface. Please watch the short videos and they should provide the background information regarding the project.
+Please start with taking a look at [my website](https://maziiw.wixsite.com/code-takeme/the-project). This page gives a good understanding of the idea behing the project. 
+I used Wix, as this seemed like the most beginner-friendly interface. Please watch the short videos and they should provide the background information regarding the project.
 
 The website can be seen published here: ENTER WEB ADDRESS FOR WIX.
 

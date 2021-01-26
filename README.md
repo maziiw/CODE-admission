@@ -42,3 +42,8 @@ To run the Flask webapp, here are few requirements:
  Your webapp should look like the following:
  
  <img src="webapp_screenshot.png" alt="Webapp Should look Like This" style="float: left; margin-right: 10px;" />
+ 
+ 
+ ### Sources:
+ Wix - create websites tutorials
+ Corey Shafer - YouTube channel on building webapps

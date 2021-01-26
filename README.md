@@ -5,18 +5,18 @@ My name is Marzena and you are likely to be assessing my entry challenge for COD
 
 Below listed are the components to my project:
 
-#### WEBSITE
-Please take a look at the website I built. I used Wix, as this seemed like the most beginner-friendly interface. 
+##### WEBSITE
+Please take a look at the website I built. I used Wix, as this seemed like the most beginner-friendly interface. Please watch the short videos and they should provide the background information regarding the project.
 
 The website can be seen published here: ENTER WEB ADDRESS FOR WIX.
 
-#### DAG
+##### DAG
 The second component to my work is a DAG - a process graph representing, at a high-level, the flow of data in my project. The DAG is also added to the website
 
-#### COMPUTER VISION MODEL MOCKUP
+##### COMPUTER VISION MODEL MOCKUP
 This component is the most challenging for me. I have worked with Kaggle data to build a mockup, yes encountered and issue with crashing Kernels. It is possible to keep this component as a placeholder and I hope to be adding this during my first few semesters at CODE!
 
-#### OPERATOR VERIFICATION WEBAPP MOCKUP
+##### OPERATOR VERIFICATION WEBAPP MOCKUP
 One of the components has a human verification step, where a drope operator / manger / dispatcher spot-checks computer vision the model. This is a webapp mockup, built using Flask, and the purpose is to show that with a few clicks, the feedback loop can be returned to the model for prediction refinement.
 
 To run the Flask webapp, here are few requirements:

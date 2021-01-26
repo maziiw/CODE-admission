@@ -9,7 +9,6 @@
         </div>
         <h2><a class="article-title" href="#">{{ post.ID }}</a></h2>
         <p class="article-content">{{ post.content }}</p>
-        <p class="article-content"> Evidence: {{post.image}}</p>
         <img src="{{url_for('static', filename=post.image)}}" />
         <p class="article-content"> Lookup File: {{post.image}}</p>
         <p>

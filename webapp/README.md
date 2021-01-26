@@ -6,3 +6,4 @@ Prerequisites
 Terminal:
 FLASK_APP=flaskapp.py
 flask run
+python flaskapp.py

@@ -1,10 +1,22 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>abc</title>
-</head>
-
-<body>
-<h1> Home Page! </h1>
-</body>
-</html>
+{% extends "layout.html" %}
+{% block content %}
+{% for post in posts %}
+    <article class="media content-section">
+    <div class="media-body">
+        <div class="article-metadata">
+        <a class="mr-2" href="#">{{ post.author }}</a>
+        <small class="text-muted">{{ post.date_captured }}</small>
+        </div>
+        <h2><a class="article-title" href="#">{{ post.ID }}</a></h2>
+        <p class="article-content">{{ post.content }}</p>
+        <p class="article-content"> Evidence: {{post.image}}</p>
+        <img src="{{url_for('static', filename=post.image)}}" />
+        <p class="article-content"> Lookup File: {{post.image}}</p>
+        <p>
+        <input type="submit" name="accept-prediction" value="Yes - Model Correct">
+        <input type="submit" name="reject-prediction" value="This is NOT trash">
+        <p2>
+    </div>
+    </article>
+{% endfor %}
+{% endblock content%}

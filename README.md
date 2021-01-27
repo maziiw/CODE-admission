@@ -14,7 +14,8 @@ Below listed are the components to my project:
     The second component to my work is a DAG - a process graph representing, at a high-level, the flow of data in my project. The DAG is also added to the website
 
 #### COMPUTER VISION MODEL
-    This component is the most challenging for me. I have worked with Kaggle data to build a mockup, yes encountered and issue with crashing Kernels. It is possible to keep this component as a placeholder and I hope to be adding this during my first few semesters at CODE!
+    This component is the most challenging for me. I have worked with Kaggle and GitHub data to build a mockup, yes encountered several issues. I realised that this task was too ambitious for my skill level and had to abandon it dues to lack of time or necessary skill.
+    I decided to keep this component as a placeholder and I hope to be lerning this during my first few semesters at CODE!
 
 #### OPERATOR VERIFICATION WEBAPP MOCKUP
     One of the components has a human verification step, where a drope operator / manger / dispatcher spot-checks computer vision the model. This is a webapp mockup, built using Flask, and the purpose is to show that with a few clicks, the feedback loop can be returned to the model for prediction refinement.

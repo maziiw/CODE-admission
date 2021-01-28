@@ -15,7 +15,7 @@ The second component to my work is a DAG - a process graph representing, at a hi
 The design can be accessed with [this link to Lucidchart](https://lucid.app/lucidchart/invitations/accept/5a5dd57a-ba2c-4b35-b729-de1df90ae760);
 or, by following back to my website: [Design Architecture page](https://maziiw.wixsite.com/code-takeme/design-architecture)
 
-#### COMPUTER VISION MODEL
+### COMPUTER VISION MODEL
 This component is the most challenging for me. I have worked with Kaggle and GitHub data to build a mockup, yet encountered several issues (listed below). 
 
 I realised that this task was too ambitious for my skill level and had to abandon it due to lack of time or necessary experience.

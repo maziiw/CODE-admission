@@ -5,7 +5,6 @@ My name is Marzena and you are likely to be assessing my entry challenge for COD
 
 Listed below are the components to my project:
 
-
 ### WEBSITE
 Please start with taking a look at [my website](https://maziiw.wixsite.com/code-takeme). This page gives a good understanding of the idea behing the project. Please watch short videos on the Home page and the The Project page.
 
@@ -15,7 +14,6 @@ To build this page, I used Wix, as it seemed like the most beginner-friendly int
 The second component to my work is a DAG - a process graph representing, at a high-level, the flow of data in my project. 
 The design can be accessed with [this link to Lucidchart](https://lucid.app/lucidchart/invitations/accept/5a5dd57a-ba2c-4b35-b729-de1df90ae760);
 or, by following back to my website: [Design Architecture page](https://maziiw.wixsite.com/code-takeme/design-architecture)
-
 
 #### COMPUTER VISION MODEL
 This component is the most challenging for me. I have worked with Kaggle and GitHub data to build a mockup, yet encountered several issues (listed below). 
@@ -60,7 +58,7 @@ Set the home directory to the webapp folder
  
  <img src="webapp_screenshot.png" alt="Webapp Should look Like This" style="float: left; margin-right: 10px;" />
  
-      My website should provide a screen recoding should you have issues running the ap.
+      My website should provide a screen recoding should you have issues running the app.
 
  ### What I Learned:
  I had so much fun with this assignement. Prior to starting I had some knowledge with Git, bash and Python environments.
